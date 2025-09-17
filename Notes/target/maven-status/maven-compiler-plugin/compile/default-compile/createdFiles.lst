@@ -1,0 +1,11 @@
+com\nxt\pojo\Notes$Builder.class
+com\nxt\ultils\JdbcConnector.class
+com\nxt\services\NoteServices.class
+com\nxt\pojo\Tag.class
+com\nxt\ultils\myAlert.class
+com\nxt\services\TagServices.class
+com\nxt\notes\PrimaryController.class
+com\nxt\notes\SecondaryController.class
+com\nxt\pojo\Notes.class
+module-info.class
+com\nxt\notes\App.class
